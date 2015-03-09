@@ -15,7 +15,6 @@
 		AD30B7C81AA78A1800C6D160 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD30B7C71AA78A1800C6D160 /* Images.xcassets */; };
 		AD30B7CB1AA78A1800C6D160 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AD30B7C91AA78A1800C6D160 /* LaunchScreen.xib */; };
 		AD30B7D71AA78A1800C6D160 /* YouTubeIndoorSDKTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AD30B7D61AA78A1800C6D160 /* YouTubeIndoorSDKTests.m */; };
-		AD30B7E11AA78EB900C6D160 /* location.json in Resources */ = {isa = PBXBuildFile; fileRef = AD30B7E01AA78EB900C6D160 /* location.json */; };
 		AD5B103D1AADD26C00764657 /* philly.png in Resources */ = {isa = PBXBuildFile; fileRef = AD5B103C1AADD26C00764657 /* philly.png */; };
 		AD5B10401AADD2F700764657 /* Constants.m in Sources */ = {isa = PBXBuildFile; fileRef = AD5B103F1AADD2F700764657 /* Constants.m */; };
 /* End PBXBuildFile section */
@@ -46,7 +45,6 @@
 		AD30B7D01AA78A1800C6D160 /* YouTubeIndoorSDKTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YouTubeIndoorSDKTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD30B7D51AA78A1800C6D160 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AD30B7D61AA78A1800C6D160 /* YouTubeIndoorSDKTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YouTubeIndoorSDKTests.m; sourceTree = "<group>"; };
-		AD30B7E01AA78EB900C6D160 /* location.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = location.json; sourceTree = "<group>"; };
 		AD48C7BE87D03F64ED4F080B /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD5B103C1AADD26C00764657 /* philly.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = philly.png; sourceTree = "<group>"; };
 		AD5B103E1AADD2F700764657 /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
@@ -119,7 +117,6 @@
 				AD5B103E1AADD2F700764657 /* Constants.h */,
 				AD5B103F1AADD2F700764657 /* Constants.m */,
 				AD30B7C41AA78A1800C6D160 /* Main.storyboard */,
-				AD30B7E01AA78EB900C6D160 /* location.json */,
 				AD30B7C71AA78A1800C6D160 /* Images.xcassets */,
 				AD30B7C91AA78A1800C6D160 /* LaunchScreen.xib */,
 				AD30B7BA1AA78A1800C6D160 /* Supporting Files */,
@@ -239,7 +236,6 @@
 				AD30B7C61AA78A1800C6D160 /* Main.storyboard in Resources */,
 				AD5B103D1AADD26C00764657 /* philly.png in Resources */,
 				AD30B7CB1AA78A1800C6D160 /* LaunchScreen.xib in Resources */,
-				AD30B7E11AA78EB900C6D160 /* location.json in Resources */,
 				AD30B7C81AA78A1800C6D160 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

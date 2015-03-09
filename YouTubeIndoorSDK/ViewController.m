@@ -12,7 +12,7 @@
 #import <ESTLocationBuilder.h>
 #import <ESTConfig.h>
 
-
+#warning ADD YOUR JSON FILE TO THE BUNDLE
 @interface ViewController ()<ESTIndoorLocationManagerDelegate>
 
 @property (nonatomic, strong) ESTIndoorLocationManager *manager;
